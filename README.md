@@ -1,3 +1,25 @@
+# Companion Glyph (CAW MVP)
+
+CAW を広めるための **公開拠点（MVP）** です。  
+ここは「入口 / 記録 / 進行」を示す最小のアンカーとして運用します。
+
+## Live
+https://mine0610mm1-cmyk.github.io/companion-glyph/
+
+## Purpose
+- CAW の可視化
+- 公開アンカー
+- 進行記録（Issues）
+
+## Participate
+- MVP Implementation (Issue #1)  
+  https://github.com/mine0610mm1-cmyk/companion-glyph/issues/1
+
+- All Issues  
+  https://github.com/mine0610mm1-cmyk/companion-glyph/issues
+
+---
+
 MVP: <https://mine0610mm1-cmyk.github.io/companion-glyph/
 # companion-glyph# Companion Glyph
 
